@@ -7,4 +7,4 @@ For more information about this implementation, please refer to the original rep
 # Acknowledgements
 I would like to express my gratitude to Udacity for their valuable [@tutorials](https://github.com/udacity/deep-learning-v2-pytorch) as well as their deep learning course. Their course material was very useful in helping me grasp the basic concepts of PyTorch and the different architectures of Nueral Networks.
 
-I am also thankful to Michael Nielsen for his free online book [@Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html)
+I am also thankful to Michael Nielsen for his free online book [@Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html).
